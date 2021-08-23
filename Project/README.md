@@ -1,9 +1,9 @@
 # Project file details
 
 
-1.SotF #1.catrobat - upto 'The Valley of Fire - Level 5' (contains all the necessary player movements and proper collsions)
+     1.SotF #1.catrobat - upto 'The Valley of Fire - Level 5' (contains all the necessary player movements and proper collsions)
 
-2.SotF #2.catrobat - upto 'Aquessa' (contains 2 whole chapter including their respective boss fights)
+     2.SotF #2.catrobat - upto 'Aquessa' (contains 2 whole chapter including their respective boss fights)
 
 
 
