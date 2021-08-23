@@ -31,7 +31,7 @@ The game shows the potential of the Pocket Code app and shows how it can be used
 
 ### Contributing to the Project
 
-The project files (.catrobat files) created during this summer are in the ‘Projects’ folder in the same repository and the final completed project is in the '[GSoC(2021)-Sisters of the Faldroid](https://github.com/Shriyanshu1/DemoGameProject-2021/tree/main/GSoC(2021)-Sisters%20of%20the%20Faldroid)' folder. 
+The project files (.catrobat files) created during this summer are in the ‘[Projects](https://github.com/Shriyanshu1/DemoGameProject-2021/tree/main/Project)’ folder in the same repository and the final completed project is in the '[GSoC(2021)-Sisters of the Faldroid](https://github.com/Shriyanshu1/DemoGameProject-2021/tree/main/GSoC(2021)-Sisters%20of%20the%20Faldroid)' folder. 
 The project file can also be downloaded directly from the Catrobat Community. Click [here](https://share.catrob.at/app/project/90ec41a9-041c-11ec-af47-005056a36f47) to goto the project page. 
 The project files can be downloaded and remixed as you desire!.
 
