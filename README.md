@@ -27,7 +27,7 @@ In the end, besides being challenging, the coding period was a lot more fun whic
 ### About the Game 
 
 Sisters of the Faldroid is a 2D platformer game created on the Pocket Code App. In the game, we have two sisters i.e. Diana and Fiora, who are ruling the empire after their father disappears. But one day, when both sisters were having a conversation, something evil took Fiora with it. Before disappearing, Fiora drops her bracelet which later helps Diana to find her and rescue her. So, you play as Diana to survive and fight till the end to rescue Fiora. The game has a simple UI and design. All of its graphical assets are designed by me and including some of the audio files.
-The game shows the potential of the Pocket Code app and shows how it can be used to develop high-quality interactive games and arts.
+The game shows the potential of the Pocket Code app and shows how it can be used to develop high-quality interactive games and arts. The gameplay of the game can be seen [here](tiny.cc/SOTF).
 
 ### Contributing to the Project
 
