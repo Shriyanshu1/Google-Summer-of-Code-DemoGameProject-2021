@@ -8,4 +8,4 @@
 
 
 
->NOTE: The final project is '[Sisters of the Faldroid v1.0.catrobat](https://github.com/Shriyanshu1/DemoGameProject-2021/tree/main/GSoC(2021)-Sisters%20of%20the%20Faldroid)' stored in the folder 'GSoC(2021)-Sisters of the Faldroid' in the same repository. 
+>NOTE: The final project '[Sisters of the Faldroid v1.0.catrobat](https://github.com/Shriyanshu1/DemoGameProject-2021/tree/main/GSoC(2021)-Sisters%20of%20the%20Faldroid)' is stored in the folder 'GSoC(2021)-Sisters of the Faldroid' in the same repository. 
