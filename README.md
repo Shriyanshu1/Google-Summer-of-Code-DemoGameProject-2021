@@ -8,7 +8,7 @@ The game is called 'Sisters of the Faldroid' which has a self-made interesting s
 
 ### My planning for the Summer
 
-I have always been delighted by the idea of turning my thoughts and ideas into a game and this summer was a huge opportunity to make my dream come true. I had this really interesting story in my brain which I planned to convert into a game for the Google Summer of Code project. After getting selected in GSoC 2021 for this project, I picked up a suitable name for the game, finalized the story, designed more assets and started to code them into the game. Through this game, I wanted to show some of the Pocket Code's functionalities and sensors such as gravity sensors, collision detection, accelerometer and multi-touch. The app also allows you to store data locally on your device which I used to design some arcade games which saves the user Hi-score locally.
+I have always been delighted by the idea of turning my thoughts and ideas into a game and this summer was a huge opportunity to make my dream come true. I had this really interesting story in my brain which I planned to convert into a game for the Google Summer of Code project. After getting selected in GSoC 2021 for this project, I picked up a suitable name for the game, finalized the story, designed more assets and started to code them into the game. Through this game, I wanted to show some of the Pocket Code's functionalities and sensors such as gravity sensors, collision detection, accelerometer and multi-touch. The app also allows you to store data locally on your device which I used to design some arcade games which saves the user Hi Score locally.
 
 ### The Google Summer of Code period
 
