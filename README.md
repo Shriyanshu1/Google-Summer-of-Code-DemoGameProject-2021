@@ -13,20 +13,20 @@ I have always been delighted by the idea of turning my thoughts and ideas into a
 ### The Google Summer of Code period
 
 ##### The Bonding period:
-As soon as I got selected for the GSoC project, I started documenting the game story and did a hit and trial with the codes, some of which I used in the game too. With the continuous communication with my mentor, I finalized the story and started working on the most important and time indulging game component i.e. the game art and assets.
+As soon as I got selected for the GSoC project, I started documenting the game story and did a hit and trial with the codes, some of which I used in the game too. With continuous communication with my mentor, I finalized the story and started working on the most important and time indulging game component i.e. the game art and assets.
 
 ##### The Coding Period:
 The Coding period had me tied with some problems such as collision detections, player movement, laggy game scenes and with some audio files and these problems could not be ignored.
 
-After a while, by continuing the work remotely and having proper discussions with my mentor, I had them solved. The more I and my mentor had discussions about the game out in the meetings, the more I saw the game getting more interesting and in shape.
+After a while, by continuing the work remotely and having proper discussions with my mentor, I had them solved. The more I and my mentor had discussions about the game out in the meetings, the more interesting the game became.
 
-One more issue I faced was uploading my files to GitHub as they were pretty large because of the high resolution and duplication of the assets. I removed some of the unused assets too. Which fixed it.
+One more issue I faced was uploading my files to GitHub as they were pretty large because of the high resolution and duplication of the assets. I removed some of the unused assets too. I removed some of the unused assets too which finally fixed the issue.
 
 In the end, besides being challenging, the coding period was a lot more fun which also helped me discover the work I can perform and also taught me how things work behind the scenes.
 
 ### About the Game 
 
-Sisters of the Faldroid is a 2D platformer game created on the Pocket Code App. In the game, we have two sisters i.e. Diana and Fiora, who are ruling the empire after their father disappears. But later one day, when both sisters were having a conversation, something evil took Fiora with it. Before disappearing, Fiora drops her bracelet which later helps Diana to find her and rescue her. So, you play as Diana to survive and fight till the end to rescue Fiora. The game has a simple UI and design. All of its graphical assets are designed by me and including some of the audio files.
+Sisters of the Faldroid is a 2D platformer game created on the Pocket Code App. In the game, we have two sisters i.e. Diana and Fiora, who are ruling the empire after their father disappears. But one day, when both sisters were having a conversation, something evil took Fiora with it. Before disappearing, Fiora drops her bracelet which later helps Diana to find her and rescue her. So, you play as Diana to survive and fight till the end to rescue Fiora. The game has a simple UI and design. All of its graphical assets are designed by me and including some of the audio files.
 The game shows the potential of the Pocket Code app and shows how it can be used to develop high-quality interactive games and arts.
 
 ### Contributing to the Project
