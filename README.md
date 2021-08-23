@@ -3,8 +3,8 @@
 
 ![alt text](https://github.com/Shriyanshu1/DemoGameProject-2021/blob/main/Image/Banner.png)
 
-The Awesome Demo Game Project of International Catrobat Association required me to build a fully-fledged on the award winning app 'Pocket Code' (both available on IOS and Android). I had to submit a proposal with the game idea which was meant to be developed on Pocket Code app. I designed a rough model of my game idea which included some of the self-made game arts, audio files and a story. Luckily, This summer I got the chance to be a part of the International Catrobat Association and to create an Awesome Demo game within the whole Google Summer of Code period.
-The game is called 'Sisters of the Faldroid' which has a self-made interesting story converted into a game using the Pocket Code app. The game clearly shows the potential of the app and visualizes its working. I am responsible for all the game design code, graphical assets and some of the music pieces. The assets can be found here in this repository.
+The Awesome Demo Game Project of the International Catrobat Association required me to build a fully-fledged on  award-winning app 'Pocket Code' (available both on IOS and Android). I had to submit a proposal with the game idea which was meant to be developed on the Pocket Code app. I designed a rough model of my game idea which included some of the self-made game arts, audio files, and a story. Luckily, this summer I got the chance to be a part of the International Catrobat Association and to create an Awesome Demo game within the whole Google Summer of Code period.
+The game is called 'Sisters of the Faldroid' which has a self-made interesting story converted into a game using the Pocket Code app. The game clearly shows the potential of the app and visualizes its work. I am responsible for all the game design code, graphical assets, and some of the music pieces. The assets can be found here in this repository.
 
 ### My planning for the Summer
 
